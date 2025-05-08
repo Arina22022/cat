@@ -1,0 +1,21 @@
+header a {
+    text-decoration: none;
+    border: 1px solid #F5FFFA;
+    background-color:#F5FFFA ;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+header{
+ margin-top: 20px;
+}
+
+header a::after {
+    content: url("https://foni.papik.pro/uploads/posts/2024-09/foni-papik-pro-6z0h-p-kartinki-smeshnie-koti-na-prozrachnom-fone-11.png");
+    width: 50px; 
+    height: 50px;
+    transform: scale(.2);
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 500px;
+}
