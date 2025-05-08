@@ -1,3 +1,13 @@
+body {
+    font-family: sans-serif;
+    background-color: #FFE5B4;
+}
+
+h1 {
+    text-align: center;
+    color:#B32821 ;
+}
+
 header a {
     text-decoration: none;
     border: 1px solid #F5FFFA;
